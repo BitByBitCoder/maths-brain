@@ -261,3 +261,132 @@ After identities:
     
 
 Identities are one of the most important foundations in algebra and competitive exams.
+
+Those symbols are just a **compact pattern** for multiplication.  
+They are not graphs.
+
+For this identity:
+
+genui{"math_block_widget_always_prefetch_v2":{"content":"(a+b)^2=a^2+2ab+b^2"}}
+
+the letters mean:
+
+- (a^2) → (a \times a)
+    
+- (b^2) → (b \times b)
+    
+- (ab) → (a \times b)
+    
+
+---
+
+# Why the Formula Exists
+
+Because:
+
+[  
+(a+b)^2  
+]
+
+actually means:
+
+[  
+(a+b)(a+b)  
+]
+
+Now multiply everything:
+
+```text
+(a + b)(a + b)
+
+= a(a) + a(b) + b(a) + b(b)
+```
+
+which becomes:
+
+```text
+a² + ab + ab + b²
+```
+
+Combine the two (ab):
+
+```text
+a² + 2ab + b²
+```
+
+That is the identity.
+
+---
+
+# Visual Idea
+
+Think of it like distributing multiplication:
+
+```text
+First bracket:
+a + b
+
+Second bracket:
+a + b
+```
+
+Every term multiplies every term:
+
+|Multiply|Result|
+|---|---|
+|(a \times a)|(a^2)|
+|(a \times b)|(ab)|
+|(b \times a)|(ab)|
+|(b \times b)|(b^2)|
+
+Then:
+
+[  
+ab+ab=2ab  
+]
+
+---
+
+# Real Number Example
+
+Take:
+
+[  
+(2+3)^2  
+]
+
+Expand:
+
+```text
+(2+3)(2+3)
+```
+
+Multiply everything:
+
+```text
+2×2 = 4
+2×3 = 6
+3×2 = 6
+3×3 = 9
+```
+
+Add:
+
+```text
+4 + 6 + 6 + 9
+= 25
+```
+
+This matches:
+
+[  
+2^2+2(2)(3)+3^2  
+]
+
+---
+
+# Important
+
+The formula is not random.
+
+It comes directly from multiplying both brackets fully.
