@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "divisibilty rules/rules.md",
+                "file": "Prime number/prime number calculation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rules"
+              "title": "prime number calculation"
             }
           }
         ],
@@ -236,33 +236,33 @@
   },
   "active": "ab5dbe0b2600e938",
   "lastOpenFiles": [
+    "Times table/17 time table.md",
+    "Website practice.md",
     "Untitled.md",
+    "things.md",
+    "heell.md",
     "divisibilty rules/rules.md",
+    "Times table/1Time table.md",
     "divisibilty rules",
     "Times table/13 time table.md",
     "Times table/8 time table.md",
     "Times table/7 time table.md",
-    "Times table/17 time table.md",
     "Prime number/prime number calculation.md",
-    "Times table/1Time table.md",
     "Times table",
     "algebra/Algebraic Identities.md",
     "algebra/Algebra roadmap.md",
     "algebra/algebra.md",
-    "Website practice.md",
     "Prime number/shortcut.md",
     "Prime number/prime numbers.md",
     "Prime number",
     "factorization",
     "factorization/algebric factorization.md",
     "algebra/expression.md",
-    "things.md",
     "algebra/Welcome.md",
     "algebra/algebra.base",
     "algebra/v4-460px-Understand-Algebra-Step-2-Version-3.jpg",
     "Untitled.base",
     "Untitled 1.base",
-    "algebra/hello maths.md",
-    "heell.md"
+    "algebra/hello maths.md"
   ]
 }

@@ -13,7 +13,7 @@ Here are the most common ones:
 - **4** → Look at the last two digits; if they form a number divisible by 4, the whole number is divisible by 4.  
     _Example:_ 316 → last two digits = 16 → divisible by 4
     
-- **5** → Ends in 0 or 5.  
+- **5** → Ends in 0 or 5.   
     _Example:_ 75 → ends in 5 → divisible by 5
     
 - **6** → Must be divisible by both 2 **and** 3.  
