@@ -13,54 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time and distance/average speed/average speed.md",
+                "file": "revisit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "average speed"
+              "title": "revisit"
             }
           },
           {
-            "id": "30a15ce2e3b32009",
+            "id": "743aede915ddafd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prime number/prime number calculation.md",
+                "file": "study1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prime number calculation"
-            }
-          },
-          {
-            "id": "49aabd98facf6ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Times table/13 time table.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13 time table"
-            }
-          },
-          {
-            "id": "ab5dbe0b2600e938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "time and distance/trains/basic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "basic"
+              "title": "study1"
             }
           }
         ]
@@ -235,23 +207,29 @@
   },
   "active": "cce26004fd44bee6",
   "lastOpenFiles": [
+    "time and distance/speed time ratio/speed time ratio.md",
+    "revisit.md",
+    "study1.md",
+    "time and distance/Untitled 1.md",
+    "time and distance/speed time ratio",
+    "time and distance/roadmap.md",
+    "time and distance/time and distance.md",
+    "time and distance/boat and stream/boat and stream.md",
+    "Prime number/prime number calculation.md",
+    "time and distance/boat and stream/core formula.md",
+    "things.md",
+    "time and distance/example1.md",
+    "time and distance/average speed/average speed.md",
     "Screenshot 2026-06-07 at 12.12.08 AM.png",
     "Screenshot 2026-06-06 at 11.48.20 PM.png",
     "time and distance/type of questions.md",
-    "time and distance/average speed/average speed.md",
     "time and distance/Untitled.md",
     "time and distance/average speed",
     "time and distance/relative speed/relative speed.md",
-    "time and distance/roadmap.md",
-    "time and distance/example1.md",
-    "time and distance/boat and stream/boat and stream.md",
     "time and distance/boat and stream",
-    "study1.md",
     "time and distance/trains/trains.md",
-    "things.md",
     "time and distance/trains/now.md",
     "time and distance/relative speed",
-    "time and distance/time and distance.md",
     "time and distance/trains/basic.md",
     "algebra/algebra.md",
     "time and distance/trains",
@@ -265,13 +243,8 @@
     "fractions/fractions.md",
     "simplification/simplification topic.md",
     "simplification/simplify.md",
-    "LCM  HCF/practice.md",
     "simplification",
-    "LCM  HCF/HCF.md",
-    "LCM  HCF/LCM.md",
-    "Untitled 1.md",
     "LCM  HCF",
-    "fractions",
     "algebra/v4-460px-Understand-Algebra-Step-2-Version-3.jpg"
   ]
 }

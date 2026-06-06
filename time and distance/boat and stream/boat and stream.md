@@ -1,208 +1,338 @@
-Great. Boats & Streams is actually easier if you understand the idea first.
+# Boats & Streams
 
-# Step 1: Imagine Still Water
-
-Suppose a boat moves at **10 km/h** in a lake.
-
-There is no current.
-
-```text
-Boat speed = 10 km/h
-Water speed = 0 km/h
-```
-
-The boat moves at 10 km/h.
+Boats & Streams is a Time & Distance topic where a boat moves in a river with a current (stream).
 
 ---
 
-# Step 2: Add a Stream
+# What is a Stream?
 
-Now the river is flowing.
+A stream is flowing water.
+
+```text
+~~~~~~~~~~~~>
+River Current
+```
+
+The current can either:
+
+- Help the boat move faster
+    
+- Slow the boat down
+    
+
+---
+
+# Case 1: Downstream
+
+The boat moves **with the current**.
+
+```text
+Stream --->
+
+Boat   --->
+```
 
 Suppose:
 
-```text
-Boat speed = 10 km/h
-Stream speed = 2 km/h
-```
+- Boat speed in still water = 20 km/hr
+    
+- Stream speed = 5 km/hr
+    
 
-The water itself is moving at 2 km/h.
+The current helps the boat.
 
----
-
-# Downstream
-
-Boat and water move in the same direction.
+Downstream Speed:
 
 ```text
-River Flow --->
-
-Boat ------->
+20 + 5 = 25 km/hr
 ```
 
-The stream helps the boat.
-
-Speed = Boat Speed + Stream Speed
-
-= 10 + 2
-
-= **12 km/h**
-
----
-
-# Upstream
-
-Boat moves against the river.
+### Rule
 
 ```text
-River Flow --->
-
-Boat <-------
+Downstream Speed = Boat Speed + Stream Speed
 ```
 
-The stream slows the boat.
+---
 
-Speed = Boat Speed − Stream Speed
+### Example
 
-= 10 − 2
+Boat speed = 18 km/hr
 
-= **8 km/h**
+Stream speed = 4 km/hr
+
+```text
+Downstream Speed
+= 18 + 4
+= 22 km/hr
+```
+
+✅ Answer = 22 km/hr
 
 ---
 
-# Two Important Formulas
+# Case 2: Upstream
 
-\text{Downstream Speed}=\text{Boat Speed}+\text{Stream Speed}
+The boat moves **against the current**.
 
-\text{Upstream Speed}=\text{Boat Speed}-\text{Stream Speed}
+```text
+Boat   --->
+
+<--- Stream
+```
+
+The current slows the boat.
+
+Suppose:
+
+- Boat speed = 20 km/hr
+    
+- Stream speed = 5 km/hr
+    
+
+Upstream Speed:
+
+```text
+20 - 5 = 15 km/hr
+```
+
+### Rule
+
+```text
+Upstream Speed = Boat Speed - Stream Speed
+```
 
 ---
 
-# Example 1
+### Example
 
-Boat speed = 15 km/h
+Boat speed = 18 km/hr
 
-Stream speed = 4 km/h
+Stream speed = 4 km/hr
 
-Find:
+```text
+Upstream Speed
+= 18 - 4
+= 14 km/hr
+```
+
+✅ Answer = 14 km/hr
+
+---
+
+# Finding Boat Speed
+
+Suppose:
+
+- Downstream Speed = 30 km/hr
+    
+- Upstream Speed = 20 km/hr
+    
+
+Add them:
+
+```text
+30 + 20 = 50
+```
+
+Divide by 2:
+
+```text
+50 / 2 = 25
+```
+
+### Rule
+
+```text
+Boat Speed
+= (Downstream Speed + Upstream Speed) / 2
+```
+
+✅ Boat Speed = 25 km/hr
+
+---
+
+# Finding Stream Speed
+
+Suppose:
+
+- Downstream Speed = 30 km/hr
+    
+- Upstream Speed = 20 km/hr
+    
+
+Subtract them:
+
+```text
+30 - 20 = 10
+```
+
+Divide by 2:
+
+```text
+10 / 2 = 5
+```
+
+### Rule
+
+```text
+Stream Speed
+= (Downstream Speed - Upstream Speed) / 2
+```
+
+✅ Stream Speed = 5 km/hr
+
+---
+
+# Example
+
+Downstream Speed = 18 km/hr
+
+Upstream Speed = 10 km/hr
+
+Boat Speed:
+
+```text
+(18 + 10) / 2
+= 28 / 2
+= 14 km/hr
+```
+
+Stream Speed:
+
+```text
+(18 - 10) / 2
+= 8 / 2
+= 4 km/hr
+```
+
+✅ Boat Speed = 14 km/hr
+
+✅ Stream Speed = 4 km/hr
+
+---
+
+# Easy Memory Trick
 
 ### Downstream
 
-15 + 4 = **19 km/h**
+```text
+Boat --->
+
+Stream --->
+```
+
+Use:
+
+```text
++
+```
+
+---
 
 ### Upstream
 
-15 − 4 = **11 km/h**
+```text
+Boat --->
+
+<--- Stream
+```
+
+Use:
+
+```text
+-
+```
 
 ---
 
-# Example 2
+# Mini Test
 
-A boat travels 60 km downstream in 3 hours.
+### 1.
+
+Boat Speed = 12 km/hr
+
+Stream Speed = 3 km/hr
 
 Find downstream speed.
 
-Speed = Distance ÷ Time
+### 2.
 
-= 60 ÷ 3
+Boat Speed = 15 km/hr
 
-= **20 km/h**
+Stream Speed = 4 km/hr
 
----
+Find upstream speed.
 
-# Most Common Exam Type
+### 3.
 
-### Question
+Downstream Speed = 24 km/hr
 
-Downstream speed = 18 km/h
-
-Upstream speed = 10 km/h
+Upstream Speed = 16 km/hr
 
 Find:
 
-1. Boat speed in still water
+- Boat Speed
     
-2. Stream speed
-    
-
----
-
-### Trick
-
-Boat speed = (Downstream + Upstream) ÷ 2
-
-= (18 + 10) ÷ 2
-
-= **14 km/h**
-
----
-
-Stream speed = (Downstream − Upstream) ÷ 2
-
-= (18 − 10) ÷ 2
-
-= **4 km/h**
-
----
-
-# Why?
-
-Downstream = Boat + Stream
-
-18 = Boat + Stream
-
-Upstream = Boat − Stream
-
-10 = Boat − Stream
-
-Adding both:
-
-28 = 2 × Boat
-
-Boat = 14
-
-Then:
-
-Stream = 18 − 14 = 4
-
----
-
-# LDC-Level Practice
-
-### Q1
-
-Boat speed = 12 km/h
-
-Stream speed = 3 km/h
-
-Find:
-
-- Downstream speed
-    
-- Upstream speed
+- Stream Speed
     
 
 ---
 
-### Q2
+# Answers
 
-Downstream speed = 20 km/h
+### 1
 
-Upstream speed = 12 km/h
+```text
+12 + 3 = 15 km/hr
+```
 
-Find:
+✅ 15 km/hr
 
-- Boat speed
-    
-- Stream speed
-    
+### 2
+
+```text
+15 - 4 = 11 km/hr
+```
+
+✅ 11 km/hr
+
+### 3
+
+Boat Speed:
+
+```text
+(24 + 16) / 2
+= 40 / 2
+= 20 km/hr
+```
+
+Stream Speed:
+
+```text
+(24 - 16) / 2
+= 8 / 2
+= 4 km/hr
+```
+
+✅ Boat Speed = 20 km/hr
+
+✅ Stream Speed = 4 km/hr
 
 ---
 
-### Q3
+### Formulas Summary
 
-A boat travels 90 km downstream in 5 hours.
+```text
+Downstream Speed = Boat Speed + Stream Speed
 
-Find downstream speed.
+Upstream Speed = Boat Speed - Stream Speed
 
-Try these three first before moving to harder Boats & Streams questions.
+Boat Speed = (Downstream Speed + Upstream Speed) / 2
+
+Stream Speed = (Downstream Speed - Upstream Speed) / 2
+
+Time = Distance / Speed
+
+Distance = Speed × Time
+```

@@ -1,5 +1,30 @@
 Based on Questions **51–75**, you do **not** need advanced mathematics. The paper mainly tests **basic competitive-exam arithmetic**.
 
+Study in this order:
+
+1. Fractions
+    
+2. Percentages
+    
+3. Average
+    
+4. Speed–Distance–Time
+    
+5. Simple Algebra
+    
+6. Ratio & Proportion
+    
+7. LCM/HCF
+    
+8. Squares & Square Roots
+    
+9. Geometry
+    
+10. Probability
+    
+11. Surds
+    
+12. Indices
 # Topics to Study (Priority Order)
 
 ## 1. Fractions ⭐⭐⭐⭐⭐
@@ -303,31 +328,7 @@ a^m / a^n = a^(m−n)
 
 # If You Have Only One Month
 
-Study in this order:
 
-1. Fractions
-    
-2. Percentages
-    
-3. Average
-    
-4. Speed–Distance–Time
-    
-5. Simple Algebra
-    
-6. Ratio & Proportion
-    
-7. LCM/HCF
-    
-8. Squares & Square Roots
-    
-9. Geometry
-    
-10. Probability
-    
-11. Surds
-    
-12. Indices
     
 
 These topics cover **almost every question from 51–75** and a large part of a typical LDC maths paper.
