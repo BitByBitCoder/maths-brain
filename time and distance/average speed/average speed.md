@@ -144,7 +144,7 @@ Average Speed:
 
 When two equal distances are covered at speeds **a** and **b**:
 
-\text{Average Speed}=\frac{2ab}{a+b}
+![[Screenshot 2026-06-07 at 12.12.08 AM.png]]
 
 ---
 
