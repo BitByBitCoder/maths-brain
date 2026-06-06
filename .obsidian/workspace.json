@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algebra/algebra.md",
+                "file": "time and distance/average speed/average speed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "algebra"
+              "title": "average speed"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study1.md",
+                "file": "time and distance/trains/basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "study1"
+              "title": "basic"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,10 +233,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab5dbe0b2600e938",
+  "active": "cce26004fd44bee6",
   "lastOpenFiles": [
-    "practice.md",
+    "Screenshot 2026-06-06 at 11.48.20 PM.png",
+    "time and distance/type of questions.md",
+    "time and distance/average speed/average speed.md",
+    "time and distance/Untitled.md",
+    "time and distance/average speed",
+    "time and distance/relative speed/relative speed.md",
+    "time and distance/roadmap.md",
+    "time and distance/example1.md",
+    "time and distance/boat and stream/boat and stream.md",
+    "time and distance/boat and stream",
     "study1.md",
+    "time and distance/trains/trains.md",
+    "things.md",
+    "time and distance/trains/now.md",
+    "time and distance/relative speed",
+    "time and distance/time and distance.md",
+    "time and distance/trains/basic.md",
+    "algebra/algebra.md",
+    "time and distance/trains",
+    "time and distance",
+    "practice.md",
     "average/average.md",
     "average",
     "percentages/percentage.md",
@@ -252,26 +270,7 @@
     "LCM  HCF/LCM.md",
     "Untitled 1.md",
     "LCM  HCF",
-    "fractions/decimals to percentages.md",
-    "fractions/formulas.md",
-    "fractions/divide.md",
-    "fractions/to decimals.md",
-    "fractions/percentage basic.md",
-    "fractions/proper and improper.md",
     "fractions",
-    "algebra/Algebra roadmap.md",
-    "algebra/algebra.md",
-    "divisibilty rules/rules.md",
-    "Prime number/shortcut.md",
-    "Prime number/prime numbers.md",
-    "Prime number/prime number calculation.md",
-    "Times table/17 time table.md",
-    "Website practice.md",
-    "divisibilty rules",
-    "Times table",
-    "Prime number",
-    "factorization",
-    "algebra/algebra.base",
     "algebra/v4-460px-Understand-Algebra-Step-2-Version-3.jpg"
   ]
 }
