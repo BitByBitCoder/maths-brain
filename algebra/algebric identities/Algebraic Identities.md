@@ -1,392 +1,258 @@
 # Algebraic Identities
 
-An **algebraic identity** is a formula that is ALWAYS true for all values of variables.
+# Most Important Exam Identities
 
-Example:
+Memorize these:
 
-genui{"math_block_widget_always_prefetch_v2":{"content":"(a+b)^2=a^2+2ab+b^2"}}
+```text
+(a + b)² = a² + 2ab + b²
 
-No matter what values (a) and (b) are, both sides stay equal.
+(a - b)² = a² - 2ab + b²
+
+(a + b)(a - b) = a² - b²
+
+(a + b)³ = a³ + 3a²b + 3ab² + b³
+
+(a - b)³ = a³ - 3a²b + 3ab² - b³
+ 
+a³ + b³ = (a + b)(a² - ab + b²)
+
+a³ - b³ = (a - b)(a² + ab + b²)
+
+An **algebraic identity** is a formula that is **always true** for any value of the variables.
+
+For example:
+
+```text
+(a + b)² = a² + 2ab + b²
+```
+
+No matter what values you put for `a` and `b`, the equation remains true.
 
 ---
 
-# Why Identities Are Important
+# Why Learn Identities?
 
 They help you:
 
-- expand expressions quickly
+- Solve questions faster
     
-- factorize
+- Simplify expressions
     
-- solve equations
+- Calculate squares quickly
     
-- do fast calculations in exams
-    
-
----
-
-# Identity 1 — Square of Sum
-
-genui{"math_block_widget_always_prefetch_v2":{"content":"(a+b)^2=a^2+2ab+b^2"}}
-
-## Meaning
-
-[  
-(a+b)^2  
-]
-
-means:
-
-[  
-(a+b)(a+b)  
-]
-
----
-
-## Example
-
-[  
-(2+3)^2  
-]
-
-Using identity:
-
-[  
-2^2+2(2)(3)+3^2  
-]
-
-[  
-4+12+9=25  
-]
-
----
-
-# Identity 2 — Square of Difference
-
-genui{"math_block_widget_always_prefetch_v2":{"content":"(a-b)^2=a^2-2ab+b^2"}}
-
-## Example
-
-[  
-(5-2)^2  
-]
-
-[  
-5^2-2(5)(2)+2^2  
-]
-
-[  
-25-20+4=9  
-]
-
----
-
-# Identity 3 — Difference of Squares
-
-genui{"math_block_widget_always_prefetch_v2":{"content":"(a+b)(a-b)=a^2-b^2"}}
-
-Middle terms cancel automatically.
-
----
-
-## Example
-
-[  
-(10+3)(10-3)  
-]
-
-[  
-10^2-3^2  
-]
-
-[  
-100-9=91  
-]
-
-Very useful for mental maths.
-
----
-
-# Identity 4 — Cube of Sum
-
-(a+b)^3=a^3+3a^2b+3ab^2+b^3
-
-Usually learned later.
-
----
-
-# Identity 5 — Cube of Difference
-
-(a-b)^3=a^3-3a^2b+3ab^2-b^3
-
----
-
-# How Identities Help in Fast Squares
-
-Example:
-
-[  
-101^2  
-]
-
-Write as:
-
-[  
-(100+1)^2  
-]
-
-Using identity:
-
-[  
-10000+200+1  
-]
-
-[  
-10201  
-]
-
-Fast mental calculation.
-
----
-
-# Expansion vs Factorization
-
-## Expansion
-
-Open brackets.
-
-Example:
-
-[  
-(x+2)^2  
-]
-
-becomes:
-
-[  
-x^2+4x+4  
-]
-
----
-
-## Factorization
-
-Reverse process.
-
-[  
-x^2+4x+4  
-]
-
-becomes:
-
-[  
-(x+2)^2  
-]
-
----
-
-# Common Beginner Mistake
-
-Wrong:
-
-[  
-(a+b)^2=a^2+b^2  
-]
-
-Correct:
-
-[  
-a^2+2ab+b^2  
-]
-
-Never forget the middle term.
-
----
-
-# Practice Questions
-
-Expand:
-
-[  
-(x+3)^2  
-]
-
-[  
-(a-5)^2  
-]
-
-[  
-(2x+1)^2  
-]
-
-[  
-(10+2)(10-2)  
-]
-
----
-
-# Answers
-
-[  
-x^2+6x+9  
-]
-
-[  
-a^2-10a+25  
-]
-
-[  
-4x^2+4x+1  
-]
-
-[  
-100-4=96  
-]
-
----
-
-# What To Learn Next
-
-After identities:
-
-1. factorization
-    
-2. linear equations
-    
-3. quadratics
-    
-4. exponents
-    
-5. word problems
+- Factorize expressions
     
 
-Identities are one of the most important foundations in algebra and competitive exams.
-
-Those symbols are just a **compact pattern** for multiplication.  
-They are not graphs.
-
-For this identity:
-
-genui{"math_block_widget_always_prefetch_v2":{"content":"(a+b)^2=a^2+2ab+b^2"}}
-
-the letters mean:
-
-- (a^2) → (a \times a)
-    
-- (b^2) → (b \times b)
-    
-- (ab) → (a \times b)
-    
+Many competitive exams ask direct questions from these formulas.
 
 ---
 
-# Why the Formula Exists
+# Identity 1
 
-Because:
-
-[  
-(a+b)^2  
-]
-
-actually means:
-
-[  
-(a+b)(a+b)  
-]
-
-Now multiply everything:
+### Square of a Sum
 
 ```text
-(a + b)(a + b)
-
-= a(a) + a(b) + b(a) + b(b)
+(a + b)² = a² + 2ab + b²
 ```
 
-which becomes:
+### Example
 
 ```text
-a² + ab + ab + b²
+(5 + 2)²
+
+= 5² + 2(5)(2) + 2²
+
+= 25 + 20 + 4
+
+= 49
 ```
 
-Combine the two (ab):
-
-```text
-a² + 2ab + b²
-```
-
-That is the identity.
+✅ Answer = 49
 
 ---
 
-# Visual Idea
+# Identity 2
 
-Think of it like distributing multiplication:
+### Square of a Difference
 
 ```text
-First bracket:
-a + b
-
-Second bracket:
-a + b
+(a - b)² = a² - 2ab + b²
 ```
 
-Every term multiplies every term:
+### Example
 
-|Multiply|Result|
-|---|---|
-|(a \times a)|(a^2)|
-|(a \times b)|(ab)|
-|(b \times a)|(ab)|
-|(b \times b)|(b^2)|
+```text
+(10 - 3)²
 
-Then:
+= 10² - 2(10)(3) + 3²
 
-[  
-ab+ab=2ab  
-]
+= 100 - 60 + 9
+
+= 49
+```
+
+✅ Answer = 49
 
 ---
 
-# Real Number Example
+# Identity 3
 
-Take:
-
-[  
-(2+3)^2  
-]
-
-Expand:
+### Difference of Squares
 
 ```text
-(2+3)(2+3)
+(a + b)(a - b) = a² - b²
 ```
 
-Multiply everything:
+### Example
 
 ```text
-2×2 = 4
-2×3 = 6
-3×2 = 6
-3×3 = 9
+(12 + 5)(12 - 5)
+
+= 12² - 5²
+
+= 144 - 25
+
+= 119
 ```
 
-Add:
-
-```text
-4 + 6 + 6 + 9
-= 25
-```
-
-This matches:
-
-[  
-2^2+2(2)(3)+3^2  
-]
+✅ Answer = 119
 
 ---
 
-# Important
+# Identity 4
 
-The formula is not random.
+### Cube of a Sum
 
-It comes directly from multiplying both brackets fully.
+```text
+(a + b)³
+
+= a³ + 3a²b + 3ab² + b³
+```
+
+### Example
+
+```text
+(2 + 1)³
+
+= 2³ + 3(2²)(1) + 3(2)(1²) + 1³
+
+= 8 + 12 + 6 + 1
+
+= 27
+```
+
+✅ Answer = 27
+
+---
+
+# Identity 5
+
+### Cube of a Difference
+
+```text
+(a - b)³
+
+= a³ - 3a²b + 3ab² - b³
+```
+
+### Example
+
+```text
+(3 - 1)³
+
+= 27 - 27 + 9 - 1
+
+= 8
+```
+
+✅ Answer = 8
+
+---
+
+# Identity 6
+
+### Sum of Cubes
+
+```text
+a³ + b³
+
+= (a + b)(a² - ab + b²)
+```
+
+### Example
+
+```text
+8 + 27
+
+= 2³ + 3³
+
+= (2 + 3)(4 - 6 + 9)
+
+= 5 × 7
+
+= 35
+```
+
+✅ Answer = 35
+
+---
+
+# Identity 7
+
+### Difference of Cubes
+
+```text
+a³ - b³
+
+= (a - b)(a² + ab + b²)
+```
+
+### Example
+
+```text
+125 - 8
+
+= 5³ - 2³
+
+= (5 - 2)(25 + 10 + 4)
+
+= 3 × 39
+
+= 117
+```
+
+✅ Answer = 117
+
+---
+
+
+```
+
+---
+
+# Quick Calculation Trick
+
+Find:
+
+```text
+99²
+```
+
+Use:
+
+```text
+(100 - 1)²
+```
+
+```text
+= 100² - 2(100)(1) + 1²
+
+= 10000 - 200 + 1
+
+= 9801
+```
+
+✅ Answer = 9801
+
+This is one of the most common uses of algebraic identities in competitive exams.
