@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "all question in one go.md",
+                "file": "percentages/darama a question zawng2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "all question in one go"
+              "title": "darama a question zawng2"
             }
           },
           {
@@ -236,8 +236,18 @@
   },
   "active": "b7851767ea7466b3",
   "lastOpenFiles": [
-    "urgency.md",
+    "rules/rules.md",
+    "percentages/darama a question zawng2.md",
+    "rules",
+    "percentages/x of a number.md",
+    "percentages/dont know.md",
+    "percentages/A is a % of B.md",
+    "percentages/percentage conversation.md",
+    "new roadmap.md",
+    "percentages/percen.md",
+    "percentages/percentage.md",
     "all question in one go.md",
+    "urgency.md",
     "algebra/algebric identities/Algebraic Identities.md",
     "study1.md",
     "algebra/roadmap.md",
@@ -256,24 +266,14 @@
     "Prime number/prime number calculation.md",
     "time and distance/boat and stream/core formula.md",
     "things.md",
-    "time and distance/example1.md",
-    "time and distance/average speed/average speed.md",
     "Screenshot 2026-06-07 at 12.12.08 AM.png",
     "Screenshot 2026-06-06 at 11.48.20 PM.png",
-    "time and distance/type of questions.md",
-    "time and distance/Untitled.md",
     "time and distance/average speed",
-    "time and distance/relative speed/relative speed.md",
     "time and distance/boat and stream",
-    "time and distance/trains/trains.md",
-    "time and distance/trains/now.md",
     "time and distance/relative speed",
-    "time and distance/trains/basic.md",
     "time and distance/trains",
     "time and distance",
-    "practice.md",
     "average",
-    "percentages",
     "algebra/v4-460px-Understand-Algebra-Step-2-Version-3.jpg"
   ]
 }
