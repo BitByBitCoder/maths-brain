@@ -44,5 +44,5 @@
  42. A number is decreased by 10% and then increased by 10%. Find the net increase or decrease per cent.
  43. The salary of a worker is first increased by 5% and then it is decreased by 5%. What is the change in his salary?
  44. The price of an article is first increased by 20% and later on decreased by 25% due to reduction in sales. Find the net percentage change in final price of the article?
- 45. 
+ 45. Find the single equivalent discount which is equal to the successive discounts of 10%, 20% and 25%.
  
