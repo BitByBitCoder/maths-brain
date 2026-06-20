@@ -31,18 +31,18 @@ Looking at all the maths questions across the three papers (Taxation/Finance Apr
 
 ### Honest Assessment by Topic
 
-|Topic|Frequency|Difficulty|Priority|
-|---|---|---|---|
-|Percentages|Every paper, 3-5 Qs|Easy-Medium|**#1 — non-negotiable**|
-|Averages|Every paper, 2-3 Qs|Easy|**#2**|
-|SI & CI|Every paper, 1-2 Qs|Medium|**#3**|
-|Time & Work|Every paper, 1-2 Qs|Medium|**#4**|
-|Speed/Distance/Train|Every paper, 2 Qs|Medium|**#5**|
-|Ratio/Partnership|Most papers|Medium|**#6**|
-|Age Problems|Most papers|Easy|**#7**|
-|Number System/LCM|Some papers|Medium|Know basics|
-|Geometry/Mensuration|Rare, 1 Q|Hard|Skip deep study|
-|Data Interpretation|1 paper only|Medium|Skim only|
+| Topic                | Frequency           | Difficulty  | Priority                |
+| -------------------- | ------------------- | ----------- | ----------------------- |
+| Percentages          | Every paper, 3-5 Qs | Easy-Medium | **#1 — non-negotiable** |
+| Averages             | Every paper, 2-3 Qs | Easy        | **#2**                  |
+| SI & CI              | Every paper, 1-2 Qs | Medium      | **#3**                  |
+| Time & Work          | Every paper, 1-2 Qs | Medium      | **#4**                  |
+| Speed/Distance/Train | Every paper, 2 Qs   | Medium      | **#5**                  |
+| Ratio/Partnership    | Most papers         | Medium      | **#6**                  |
+| Age Problems         | Most papers         | Easy        | **#7**                  |
+| Number System/LCM    | Some papers         | Medium      | Know basics             |
+| Geometry/Mensuration | Rare, 1 Q           | Hard        | Skip deep study         |
+| Data Interpretation  | 1 paper only        | Medium      | Skim only               |
 
 ---
 
