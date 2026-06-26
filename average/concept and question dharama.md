@@ -39,3 +39,15 @@
 33. A person covers a certain distance by car at a speed of 25 km/h and comes back at a speed of 40 km/h. What is his average speed during his travel in kmph(Approx.)?
 34. A car travels at 60 kmph from Aizawl to Lunglei and at 120kmph from Lunglei to Aizawl. What is the average speed of the car for the entire journey.
 35. If a person covers three equal distances at the speed of 30 km/h, 15 km/h and 10 km/h respectively, then find out his average speed during the whole journey
+36. A person covers 20 km distance with a speed of 5 km/h, then he covers the next 15 km with a speed of 3 km/h and the last 10 km is covered by him with a speed of 2 km/h. Find out his average speed for the whole journey
+37. The average of 9 numbers is 30. The average of first 5 numbers is 25 and that of the last 3 numbers is 35. What is the 6th number?
+38. Out of seven given numbers, the average of the first four numbers is 4 and that of the last four numbers is also 4. If the average of all the seven numbers is 3, fourth number is
+39. Out of seven given numbers, the average of the first four numbers is 4 and that of the last four numbers is also 4. If the average of all the seven numbers is 3, fourth number is
+40. The average of 20 numbers is 12. The average of the first 12 numbers is 11 and that of the next 7 numbers is 10. The last number is :
+41. The average temperature of the first 4 days of a week was 37°C and that of the last 4 days of the week was 41°C. If the average temperature of the whole week was 39°C, the temperature of the fourth day was
+42. The average temperature of the first 4 days of a week was 37°C and that of the last 4 days of the week was 41°C. If the average temperature of the whole week was 39°C, the temperature of the fourth day was
+43. The average of 11 results is 50. If the average of the first six results is 49 and that of the last six is 52, the sixth no. is
+44. The average of 11 numbers is 35. If the average of first 6 numbers is 32 and that of the last 6 numbers is 37, find the sixth number.
+45. The average of nine numbers is 50. The average of the first five numbers is 54 and that of the last three numbers is 52. Then the sixth number is
+46. The average of 11 numbers is 63. If the average of first six numbers is 60 and the last six numbers is 65, then the 6th number is
+47. The average of the largest and smallest 3 digit numbers formed by 0,2 and 4 would
