@@ -51,3 +51,10 @@
 45. The average of nine numbers is 50. The average of the first five numbers is 54 and that of the last three numbers is 52. Then the sixth number is
 46. The average of 11 numbers is 63. If the average of first six numbers is 60 and the last six numbers is 65, then the 6th number is
 47. The average of the largest and smallest 3 digit numbers formed by 0,2 and 4 would
+48. The average of a series of 21 numbers is equal to 43. The average of the first eleven of them is 33. The average of the last eleven numbers is 53. The eleventh number of the series
+49. The average weight of 45 students in a class is 52 kg. 5 of them whose average weight is 48 kg leave the class and other 5 students whose average weight is 54 kg join the class. What is the new average weight (in kg) of the class?
+50. The average age of 6 members of a family is 20 years. If the age of the servant is included, then the average age increase by 20 percent. What is the age of the servant?
+51. The average age of a family of 5 members is 20 years. If the age of the youngest member is 5 years, what was the average age of the family at the birth of the youngest member?
+52. The present average age of a family of four members is 36 years. If the present age of the youngest member of the family be 12 years, the average age of the family at the birth of the youngest member was
+53. The average age of 12 children is 20 years. If the age of one more child is added, the average is decreased by 1. What is the age of the child added later
+54. The average age of 8 men is increased by 2 years when two of them whose age are 21 and 23 years replaced by two new men. The average age of the two new men is
