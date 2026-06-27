@@ -58,3 +58,5 @@
 52. The present average age of a family of four members is 36 years. If the present age of the youngest member of the family be 12 years, the average age of the family at the birth of the youngest member was
 53. The average age of 12 children is 20 years. If the age of one more child is added, the average is decreased by 1. What is the age of the child added later
 54. The average age of 8 men is increased by 2 years when two of them whose age are 21 and 23 years replaced by two new men. The average age of the two new men is
+55. The average monthly income of A and B is 14000, that of B and C is 15600 and A and C is 14400. The monthly income of C is
+56. 

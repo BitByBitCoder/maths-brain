@@ -1,0 +1,1 @@
+1. What is the simple interest on Rs. 10,000 at the rate of 6% per annum for 2 years?
