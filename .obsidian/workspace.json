@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new roadmap.md",
+                "file": "SI & CI/simple Interest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new roadmap"
+              "title": "simple Interest"
             }
           },
           {
@@ -236,11 +236,14 @@
   },
   "active": "b7851767ea7466b3",
   "lastOpenFiles": [
+    "Pasted image 20260629121112.png",
+    "new roadmap.md",
+    "fundamentals/funda.md",
+    "SI & CI/simple Interest.md",
+    "fundamentals",
     "Screenshot 2026-06-07 at 12.12.08 AM.png",
     "Screenshot 2026-06-06 at 11.48.20 PM.png",
     "revisit.md",
-    "SI & CI/simple Interest.md",
-    "new roadmap.md",
     "SI & CI",
     "all question in one go.md",
     "heell.md",
@@ -268,14 +271,12 @@
     "divisibilty rules/eleven 11.md",
     "Place value and Face Values",
     "divisibilty rules/seven 7.md",
-    "divisibilty rules/rules.md",
     "percentages/formula",
     "rules",
     "algebra/algebric identities",
     "algebra/linear equation",
     "time and distance/speed time ratio",
     "time and distance/average speed",
-    "time and distance/boat and stream",
     "algebra/v4-460px-Understand-Algebra-Step-2-Version-3.jpg"
   ]
 }
