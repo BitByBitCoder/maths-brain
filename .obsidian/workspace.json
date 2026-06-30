@@ -39,12 +39,17 @@
             "id": "b7851767ea7466b3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "z/Pasted image 20260626152851.png"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -10.48820130168015,
+                  "y": -62.681164550781254,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260626152851"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -232,8 +237,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a36bafd7affcc9a",
+  "active": "b7851767ea7466b3",
   "lastOpenFiles": [
+    "ChatGPT Image Jun 30, 2026, 07_31_55 PM.png",
+    "radmap/roadmap2.md",
+    "Untitled.canvas",
+    "radmap/new roadmap.md",
+    "z/Pasted image 20260626152851.png",
     "z/study1.md",
     "z",
     "z/Screenshot 2026-06-22 at 3.54.16 PM.png",
@@ -242,7 +252,6 @@
     "Old questions/all question in one go.md",
     "SI & CI/compound interest.md",
     "SI & CI/simple Interest.md",
-    "radmap/roadmap2.md",
     "radmap",
     "Old questions/health and family warefare/2023/1 english.md",
     "Old questions/health and family warefare/2023/2.md",
@@ -271,10 +280,7 @@
     "Old questions/judicial department/may 2026/1 english.md",
     "Old questions/judicial department/Untitled.md",
     "Old questions/Untitled.md",
-    "Old questions/lagislative assembly/2023 may/1 GENERAL ENGLISH.md",
-    "Old questions/lagislative assembly/2023 may/3 GENERAL KNOWLEDGE.md",
     "z/Pasted image 20260629121112.png",
-    "z/Pasted image 20260626152851.png",
     "Factors/Screenshot 2026-06-22 at 3.54.16 PM.png",
     "algebra/v4-460px-Understand-Algebra-Step-2-Version-3.jpg"
   ]
