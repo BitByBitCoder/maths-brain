@@ -13,3 +13,7 @@
 13. A borrows a sum of Rs.90,000 for 4 years at 5% simple interest. He lends it to B at 7% for 4 years at simple interest. What is his gain (in Rs.)?
 14. A certain sum is lent at 5% p.a. for 4 years, 4% p.a. for the next 8 years, and 7% p.a. beyond 12 years. If for a period of 15 years, the simple interest obtained is Rs. 43,800, then the sum (in Rs.) is:
 15. A sum of money lent at simple interest amounts to 880 in 2 years and to 920 in 3 years. The sum of money (in rupees) is
+16. What sum of money will amount to 520 in 5 years and to 568 in 7 years at simple interest ?
+17. At some rate of simple interest, A lent 6,000/- to B for 2 years and 1,500/- to C for 4 years and received 900/- as interest from both of them together. The rate of interest per annum was
+18. If the simple interest on a certain sum of money for 15 months at 7, per annum exceeds the simple interest on the same sum for 8 months at 12,% per annum by 32.50, then the sum of money (in ) is :
+19. A sum of money becomes Rs. 1100 in 2 years and Rs. 1400 in 6 years at S.I. Find the rate percent.
