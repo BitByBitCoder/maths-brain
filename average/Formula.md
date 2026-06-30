@@ -16,4 +16,4 @@ So total = 40 × 3 = **120**
 
 Same for the second group:
 
-Average of Tue + Wed + Thu = **41°C** Total = 41 × 3 = **123**
+Average of Tue + Wed + Thu = **41°C** Total = 41 × 3 = **123**![[Screenshot 2026-06-30 at 7.55.06 PM.png]]

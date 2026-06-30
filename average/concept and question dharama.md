@@ -59,4 +59,7 @@
 53. The average age of 12 children is 20 years. If the age of one more child is added, the average is decreased by 1. What is the age of the child added later
 54. The average age of 8 men is increased by 2 years when two of them whose age are 21 and 23 years replaced by two new men. The average age of the two new men is
 55. The average monthly income of A and B is 14000, that of B and C is 15600 and A and C is 14400. The monthly income of C is
-56. 
+56. The average monthly income of A and B is 14000, that of B and C is 15600 and A and C is 14400. The monthly income of C is
+57. The average expenditure of a man for the first five months is 1200 and for the next seven months is 1300. If he saves 2900 in that year, his monthly average income is :
+58. The average monthly expenditure of a family for the first four months is 2570, for the next three months 2490 and for the last five months 3030. If the family saves 5320 during the whole year, the average monthly income of the family during the year is
+59. A, B and C are partners in a business. A invested Rs. 4000 for the whole year, B invested Rs. 6000 initially but increased his investment up to Rs. 8000 at the end of 4 months, while C invested Rs. 8000 initially but withdrew Rs. 2000 at the end of 9 months. At the end of the year, total earned profit is Rs.

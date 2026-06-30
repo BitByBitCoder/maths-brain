@@ -39,17 +39,14 @@
             "id": "b7851767ea7466b3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -10.48820130168015,
-                  "y": -62.681164550781254,
-                  "zoom": 1
-                }
+                "file": "average/Formula.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Formula"
             }
           },
           {
@@ -239,9 +236,11 @@
   },
   "active": "b7851767ea7466b3",
   "lastOpenFiles": [
+    "Screenshot 2026-06-30 at 7.55.06 PM.png",
+    "average/concept and question dharama.md",
+    "Untitled.canvas",
     "ChatGPT Image Jun 30, 2026, 07_31_55 PM.png",
     "radmap/roadmap2.md",
-    "Untitled.canvas",
     "radmap/new roadmap.md",
     "z/Pasted image 20260626152851.png",
     "z/study1.md",
@@ -279,7 +278,6 @@
     "Old questions/judicial department/may 2026/2 computer simple arithmetic.md",
     "Old questions/judicial department/may 2026/1 english.md",
     "Old questions/judicial department/Untitled.md",
-    "Old questions/Untitled.md",
     "z/Pasted image 20260629121112.png",
     "Factors/Screenshot 2026-06-22 at 3.54.16 PM.png",
     "algebra/v4-460px-Understand-Algebra-Step-2-Version-3.jpg"
