@@ -22,3 +22,28 @@
 22. A person sold an article at a loss of 18%. Had he sold it for 7960 more, he would have gained 12%. If the article is sold for 73,840, then how much is the profit percentage?
 23. If the selling price of 10 articles is equal to the cost price of 15 articles, then what is the profit percent?
 24. If the cost price of 15 articles is equal to the selling price of 20 articles, then find the loss% in the transaction.
+25. By selling 33 metres of cloth one gains the cost price of 11 retres. Find the gain percent
+26. By selling 40 metres of cloth one gains the cost price of 10 metres. Find the gain percent
+27. By selling 33 metres of cloth one gains the selling price of 11 metres. Find the gain percent
+28. By selling 72 articles, a loss equal to the selling price of 8 articles was incurred. What is the loss percentage?
+29. By selling two articles for Rs. 800, a person gains the cost price of three articles. The profit percent is:
+30. After selling 25 articles, a shopkeeper earns profit equal to the cost price of 5 articles. If he bought articles of total 7800 then he will have sold it for.
+31. 11 oranges are bought for Rs. 10 and 10 oranges are sold for Rs. 11. Find the gain (or) loss percentage.
+32. A person bought some article at rate of 36 for Rs. 189 and sold them at the rate of 45 for Rs. 189. Find the profit or loss %.
+33. A person bought some article at rate of 36 for Rs. 189 and sold them at the rate of 45 for Rs. 189. Find the profit or loss %.
+34. A trader brought some oranges at Rs.7 for 11. He sold all at 2 for Rs 3/-. Thereby he losses 30/-. Find the number of oranges he sold.
+35. A man bought three articles for Rs. 3,000 each. He sold the articles respectively at 15% profit, 10% profit and 15% loss. The total percentage profit/loss he earned is
+36. A fruit merchant bought some bananas. One fifth of them got rotten and were thrown away. He sold two-fifth of the remaining bananas with him at 15% profit and the rest remaining bananas at 10% profit. Find his overall loss or profit percent?
+37. A person bought 50 pens for Rs. 50 each. He sold 40 of them at a loss of 5%. he wants to gain 10% on the whole. Then his gain percent on the remaining pens should be
+38. A shopkeeper bought 120 quintals of wheat. 20% of it was sold at 25% loss. At what percent gain should he sell the rest to gain 25% on the whole transaction?
+39. A man sold a table at 12% loss and a chair at 19% profit and earns a profit of Rs.160. If he sold the table at 12% profit and chair at 16% loss then he incurred a loss of Rs.40. Find the cost price of the
+40. On selling a pen at 5% loss and a book at 15% gain, Karim gains Rs.7 If he sells the pen at 5% gain and the book at 10% gain, he gains Rs. 13. What is the cost price of the book in Rupees?
+41. A man sold two horses for Rs 300 each. On one of them he gains 20% and on the other he losses 20%. find out his total loss or gain.
+42. Two horses were sold for Rs 1920 each. First was sold at 20% loss and second at 20% profit. Find over all profit or loss.
+43. Two Adidas shoe were sold for Rs 458727566865.52 each. First was sold at 17% loss and second at 17% profit. Find over all profit or loss.
+44. A house and a shop were sold for Rs. 1 lakh each. In this transaction, the house sale resulted into 28% loss whereas the shop sale resulted into 20% profit. The entire transaction resulted in -
+45. Aditya sells two wrist watches from his personal collection for $12,600 each. On the first watch, he gains 26% and, on the second, he loses 10%. Find the overall gain or loss percentage.
+46. A shopkeeper buys two cameras at the same price. He sells one camera at a profit of 18% and the other at a price of 10% less than the selling price of the first. His total profit or loss percent is :
+47. Two horses were sold at Rs 1599 each. First was sold at 25% profit and second at 20% loss. Find the over all profit or loss %.
+48. A man sold two horses for Rs 300 each. On one of them he gains 20% and on the other he losses 20%. find out his total loss or gain.
+49. A house and a shop were sold for Rs. 1 lakh each. In this transaction, the house sale resulted into 20% loss whereas the shop sale resulted into 20% profit. The entire transaction resulted in -
