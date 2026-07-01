@@ -143,4 +143,4 @@ Since you have no fixed exam date, this is structured in **work blocks**, not we
 
 ---
 
-**Bottom line, Musk-style:** Computer Knowledge is worth 100 of your 200 marks and over half of it is just three sub-topics (Hardware, Word, Excel) that require zero calculation — pure memorization. That's your fastest path to a passing score. Arithmetic's real leverage is Percentage and Profit/Loss alone covering over a fifth of that section. Everything else is incremental, not foundational. Start with Computer Hardware today — it's the single highest mark-per-hour topic in this entire exam.
+**Bottom line, Musk-style:** Computer Knowledge is worth 100 of your 200 marks and over half of it is just three sub-topics (Hardware, Word, Excel) that require zero calculation — pure memorization. That's your fastest path to a passing score. Arithmetic's real leverage is Percentage and Profit/Loss alone covering over a fifth of that section. Everything else is incremental, not foundational. Start with Computer Hardware today — it's the single highest mark-per-hour topic in this entire exam.![[ChatGPT Image Jun 30, 2026, 07_31_55 PM 1.png]]
