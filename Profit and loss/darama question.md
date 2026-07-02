@@ -2,7 +2,7 @@
 2. If CP = 1000, SP =1400, Find the Profit/Loss%
 3. A man sold an item at a loss of 30% . If the Selling price is 350/-. Find the cost price.
 4. A shopkeeper sold an item at a loss of 40% . If the Selling price is 6000/-. Find the cost price.
-5. The selling price of a mobile phone is 59,620 and it was sold at 8.4% profit. The cost price (in 7) of the mobile phone is:
+5. The selling price of a mobile phone is 59,620 and it was sold at 8.4% profit. The cost price of the mobile phone is:
 6. A shopkeeper sold an item at a profit of 63%. If the Selling price is 1600/-. Find the cost price.
 7. If the ratio of cost price and selling price be 10 : 11 then find the profit percent?
 8. if a book is sold at 20% profit ratio of cost price to the selling price will be
