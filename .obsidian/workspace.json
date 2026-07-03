@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profit and loss/darama question.md",
+                "file": "Profit and loss/darama filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "darama question"
+              "title": "darama filter"
             }
           },
           {
             "id": "cf0f9316cf908299",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ChatGPT Image Jun 30, 2026, 07_31_55 PM 1.png"
+                "file": "Profit and loss/conversion shortcut.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ChatGPT Image Jun 30, 2026, 07_31_55 PM 1"
+              "icon": "lucide-file",
+              "title": "conversion shortcut"
             }
           },
           {
@@ -39,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profit and loss/formula.md",
+                "file": "Profit and loss/darama question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "formula"
+              "title": "darama question"
             }
           }
         ],
@@ -220,29 +222,30 @@
   },
   "active": "0ccd0aca58e476f7",
   "lastOpenFiles": [
+    "Profit and loss/darama filter.md",
+    "Profit and loss/darama question.md",
+    "Profit and loss/Profit and loss.md",
+    "Profit and loss/hriat ve ah.md",
+    "radmap/new roadmap.md",
+    "Profit and loss/Screenshot 2026-06-30 at 8.17.21 PM.png",
+    "Profit and loss/conversion shortcut.md",
+    "Profit and loss/formula.md",
+    "Screenshot 2026-07-02 at 8.12.32 PM.png",
+    "ChatGPT Image Jun 30, 2026, 07_31_55 PM 1.png",
+    "Screenshot 2026-07-02 at 1.29.09 PM 1.png",
+    "Screenshot 2026-07-02 at 2.00.10 PM.png",
     "Screenshot 2026-07-02 at 12.12.16 AM.png",
     "Screenshot 2026-07-02 at 12.50.50 AM 1.png",
     "Screenshot 2026-07-02 at 1.29.09 PM.png",
-    "Profit and loss/darama filter.md",
-    "Profit and loss/formula.md",
-    "ChatGPT Image Jun 30, 2026, 07_31_55 PM 1.png",
-    "Profit and loss/darama question.md",
     "radmap/roadmap2.md",
-    "Profit and loss/Profit and loss.md",
     "percentages/darama/darama filter.md",
     "percentages/darama/formulas.md",
     "Screenshot 2026-07-02 at 12.50.50 AM.png",
     "Screenshot 2026-07-02 at 12.10.10 AM.png",
     "percentages/darama/darama a question zawng2.md",
-    "Screenshot 2026-07-01 at 9.38.44 PM.png",
-    "Screenshot 2026-07-01 at 8.26.28 PM 3.png",
-    "Screenshot 2026-07-01 at 9.21.39 PM 2.png",
-    "Screenshot 2026-07-01 at 8.26.28 PM 2.png",
-    "Screenshot 2026-07-01 at 9.21.39 PM 1.png",
     "algebra/algebric identities/Algebraic Identities.md",
     "percentages/darama",
     "percentages/A is a % of B.md",
-    "radmap/new roadmap.md",
     "average/Formula.md",
     "Profit and loss",
     "average/concept and question dharama.md",
@@ -262,9 +265,7 @@
     "Old questions/cooporative/jan 2026/2 computer and maths.md",
     "Old questions/cooporative/jan 2026/1 gk english.md",
     "Old questions/cooporative/jan 2026",
-    "Old questions/cooporative/nov 2024.md",
     "Old questions/cooporative/nov 2024",
-    "Old questions/cooporative/aug 2024/2 computer.md",
     "Old questions/cooporative/aug 2024",
     "Old questions/taxation dep/April 2026/PAPER II QUESTIONS WITH ANSWERS IN BOLD.pdf"
   ]

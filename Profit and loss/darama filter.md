@@ -17,7 +17,7 @@ Loss%   = (Loss / CP)   × 100
 Q1, Q2 directly test this.
 
 ---
-
+	
 ### FORMULA 2 — Finding CP from SP and Profit%/Loss%
 
 ```
